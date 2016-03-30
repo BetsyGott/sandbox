@@ -1,2 +1,2 @@
 <?php
-phpinfo(sad;flkasdjf
+phpinfo();
